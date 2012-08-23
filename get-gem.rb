@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+#!/usr/local/rvm/bin/ruby
 
 gem = ARGV[0]
 
